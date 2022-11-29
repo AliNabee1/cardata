@@ -1,1 +1,1 @@
-web:python cardetails.py
+web:python cardetails.py runserver 0.0.0.0:5000
