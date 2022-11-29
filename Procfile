@@ -1,2 +1,2 @@
-web: python cardetails.py 0.0.0.0:5000
+web:python cardetails.py 
 worker:python cardetails.py
