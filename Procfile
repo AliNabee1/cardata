@@ -1,2 +1,2 @@
-worker: python api_crm.py
+worker: python cardetails.py
  
