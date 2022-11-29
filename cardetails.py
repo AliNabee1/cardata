@@ -41,6 +41,7 @@ driver= webdriver.Chrome(executable_path=os.environ.get("CHROMEDRIVER_PATH"),chr
 # options.headless = True
 # driver = webdriver.Chrome(options=options)
 driver.get('https://www.rapidcarcheck.co.uk/')
+sleep(randint(4,6))
 driver.maximize_window()
 def carDetails():
     import pygsheets
