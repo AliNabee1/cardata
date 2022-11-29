@@ -1,7 +1,6 @@
 appdirs==1.4.4
 async-generator==1.10
 attrs==22.1.0
-backports.zoneinfo==0.2.1
 beautifulsoup4==4.11.1
 bs4==0.0.1
 certifi==2022.6.15
