@@ -1,2 +1,1 @@
-web:python cardetails.py 
-worker:python cardetails.py
+web:python cardetails.py
